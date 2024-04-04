@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{94B95FC1-D4DB-4A6B-B53E-478A66DC19D8}|EFCore6Fundamentals\\PublisherConsole.csproj|solutionrelative:efcore6fundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70CF5D11-14CC-40E0-8481-814702B9C856}|PublisherDomain\\PublisherDomain.csproj|c:\\github\\ej\\csharp\\efcore6fundamentals\\efcore6fundamentals\\publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70CF5D11-14CC-40E0-8481-814702B9C856}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27FAC853-7989-4033-8D93-3E542C562D07}|PublisherData\\PublisherData.csproj|c:\\github\\ej\\csharp\\efcore6fundamentals\\efcore6fundamentals\\publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FAC853-7989-4033-8D93-3E542C562D07}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70CF5D11-14CC-40E0-8481-814702B9C856}|PublisherDomain\\PublisherDomain.csproj|c:\\github\\ej\\csharp\\efcore6fundamentals\\efcore6fundamentals\\publisherdomain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70CF5D11-14CC-40E0-8481-814702B9C856}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FAC853-7989-4033-8D93-3E542C562D07}|PublisherData\\PublisherData.csproj|c:\\github\\ej\\csharp\\efcore6fundamentals\\efcore6fundamentals\\publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27FAC853-7989-4033-8D93-3E542C562D07}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70CF5D11-14CC-40E0-8481-814702B9C856}|PublisherDomain\\PublisherDomain.csproj|c:\\github\\ej\\csharp\\efcore6fundamentals\\efcore6fundamentals\\publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF5D11-14CC-40E0-8481-814702B9C856}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "EFCore6Fundamentals\\Program.cs",
               "ToolTip": "C:\\GitHub\\EJ\\CSharp\\EFCore6Fundamentals\\EFCore6Fundamentals\\EFCore6Fundamentals\\Program.cs",
               "RelativeToolTip": "EFCore6Fundamentals\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T16:02:09.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\GitHub\\EJ\\CSharp\\EFCore6Fundamentals\\EFCore6Fundamentals\\PublisherDomain\\Book.cs",
               "RelativeDocumentMoniker": "PublisherDomain\\Book.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PubContext.cs",
               "DocumentMoniker": "C:\\GitHub\\EJ\\CSharp\\EFCore6Fundamentals\\EFCore6Fundamentals\\PublisherData\\PubContext.cs",
               "RelativeDocumentMoniker": "PublisherData\\PubContext.cs",

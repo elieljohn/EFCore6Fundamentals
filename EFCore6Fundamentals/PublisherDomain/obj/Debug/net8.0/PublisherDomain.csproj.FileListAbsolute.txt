@@ -1,0 +1,12 @@
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\PublisherDomain.sourcelink.json
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+C:\GitHub\EJ\CSharp\EFCore6Fundamentals\EFCore6Fundamentals\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
